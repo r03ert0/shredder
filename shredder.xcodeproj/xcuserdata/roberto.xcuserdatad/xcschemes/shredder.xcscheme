@@ -57,6 +57,12 @@
             ReferencedContainer = "container:shredder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "/Users/roberto/Documents/_04_Data/2006_01HumanBrain/2008_04RobertoBrain/lh-100kt.txt /Users/roberto/Documents/_04_Data/2006_01HumanBrain/2008_04RobertoBrain/lh-100kt-1mm -t 1 -w 800 -h 400 -s 1"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>

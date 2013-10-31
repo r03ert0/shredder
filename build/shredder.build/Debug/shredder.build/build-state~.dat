@@ -1,0 +1,107 @@
+Tshredder
+v6
+r1
+cCheck dependencies
+cCompileC build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.o /Users/roberto/Applications/makingbits/shredder/shredder/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/roberto/Applications/makingbits/shredder/build/Debug/shredder normal x86_64
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052691997000000000000044C
+t1382619543
+s1100
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005269199700000000000001DB
+t1382619543
+s475
+
+N/Users/roberto/Applications/makingbits/shredder/build/Debug/shredder
+t2
+s0
+
+N/Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.o
+t1383069741
+s19708
+
+N/Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/shredder.LinkFileList
+c00000000526FF82C0000000000000077
+t1383069740
+s119
+
+N/Users/roberto/Applications/makingbits/shredder/shredder/main.c
+c00000000526FF8200000000000001FD3
+t1383069728
+s8147
+
+CBuild AST from /Users/roberto/Applications/makingbits/shredder/shredder/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa54a8cac2f20b841^a7ea8eac2f20b841^---0#1#1#--18"Check dependencies36"F71CDA6E-EFFC-4472-AE48-C46BD2961B50-
+
+CCompileC build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.o /Users/roberto/Applications/makingbits/shredder/shredder/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s404762540.563220
+e404762541.229568
+r1
+xCompileC
+xbuild/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.o
+x/Users/roberto/Applications/makingbits/shredder/shredder/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/makingbits/shredder/shredder/main.c
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/roberto/Applications/makingbits/shredder/shredder/main.c155"CompileC build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.o shredder/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler1b2b91ac2f20b841^b5c43aad2f20b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/roberto/Applications/makingbits/shredder/shredder/main.c0000000000000000^2680"CompileC build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.o shredder/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/makingbits/shredder    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/shredder-generated-files.hmap -I/Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/shredder-own-target-headers.hmap -I/Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/shredder-all-target-headers.hmap -iquote /Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/shredder-project-headers.hmap -I/Users/roberto/Applications/makingbits/shredder/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/DerivedSources/x86_64 -I/Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/DerivedSources -F/Users/roberto/Applications/makingbits/shredder/build/Debug -MMD -MT dependencies -MF /Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.dia -c /Users/roberto/Applications/makingbits/shredder/shredder/main.c -o /Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.o36"681E4043-90E4-47FD-8BE5-F7179FB65C4B-
+b35CF6768-1B4C-42D3-BC43-8518C85405DA
+
+CLd /Users/roberto/Applications/makingbits/shredder/build/Debug/shredder normal x86_64
+s404762541.230074
+e404762541.314079
+r1
+xLd
+x/Users/roberto/Applications/makingbits/shredder/build/Debug/shredder
+xnormal
+xx86_64
+d/Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/shredder.LinkFileList
+d/Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/main.o
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Link /Users/roberto/Applications/makingbits/shredder/build/Debug/shredder37"Ld build/Debug/shredder normal x86_64fef13aad2f20b841^126850ad2f20b841^---0#0#1#--921"Ld build/Debug/shredder normal x86_64    cd /Users/roberto/Applications/makingbits/shredder    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/roberto/Applications/makingbits/shredder/build/Debug -F/Users/roberto/Applications/makingbits/shredder/build/Debug -filelist /Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/shredder.LinkFileList -mmacosx-version-min=10.9 -Xlinker -dependency_info -Xlinker /Users/roberto/Applications/makingbits/shredder/build/shredder.build/Debug/shredder.build/Objects-normal/x86_64/shredder_dependency_info.dat -o /Users/roberto/Applications/makingbits/shredder/build/Debug/shredder36"BCF9EC7B-1563-40A7-AF53-2356D5A19D82-
+b35CF6768-1B4C-42D3-BC43-8518C85405DA
+
